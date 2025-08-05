@@ -115,6 +115,7 @@ regex==2024.11.6
 requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
+rouge==1.0.1
 rpds-py==0.25.1
 safetensors==0.5.3
 scikit-learn==1.7.0
